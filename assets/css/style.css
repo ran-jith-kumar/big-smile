@@ -1,0 +1,259 @@
+.about-four__text-2 {
+  text-align: justify;
+}
+
+.breadcrumb-article-one {
+  padding: 100px 0px;
+  position: relative;
+}
+
+.breadcrumb-article-one::after {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  content: "";
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.breadcrumb-article-one .container {
+  display: flex;
+  justify-content: center;
+}
+
+.breadcrumb-article-one {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.breadcrumb-article-one h6 {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 8px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.breadcrumb-article-one h6 span {
+  color: #284978;
+}
+
+.breadcrumb-article-one h2 {
+  text-transform: capitalize;
+  color:#07a2f7;
+  font-weight: 600;
+  font-size: 40px;
+}
+
+.breadcrumb-article-one .inner-box {
+  position: relative;
+  z-index: 1 !important;
+}
+
+header .main-header__top ul li .icon span {
+  color: #284978;
+}
+
+header .main-menu__wrapper-inner .main-menu__main-menu-box {
+  margin-left: 80px;
+  padding: 26px 0px;
+}
+
+.main-slider .swiper-wrapper .main-slider__nav i {
+  font-weight: 900;
+  font-size: 20px;
+}
+
+.services-one .services-one__bottom .item img {
+  width: auto;
+}
+
+.services-one .services-one__bottom .item .inner-box {
+  display: flex;
+  justify-content: center;
+}
+
+.services-one .services-one__bottom .item .card-box {
+  background-color: #fff;
+  padding: 25px;
+  box-shadow: 0 0 6px 4px #5c494900;
+  height: 160px;
+}
+
+.services-one .services-one__bottom .item {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.services-one .services-one__bottom .item .content-box {
+  margin-top: 10px;
+}
+
+.services-one .services-one__bottom .item .content-box h6 {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.main-menu__wrapper {
+  background-color: var(--color-lightblue);
+}
+
+.stricky-header .sticky-header__content .main-menu__main-menu-box {
+  padding: 26px 0;
+  margin-left: 80px;
+}
+
+.services-one .owl-nav .owl-prev {
+  position: absolute;
+  color: #fff;
+  top: 50%;
+  transform: translateY(-50%);
+  left: -5%;
+
+  background-color: #0591de;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.services-one .owl-nav .owl-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: -5%;
+  background-color: #0591de;
+  color: #fff;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.services-one .owl-nav .owl-next:hover {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #0591de;
+}
+
+.services-one .owl-nav .owl-prev:hover {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #0591de;
+}
+
+.chain-link-section {
+  background-color: var(--insur-extra);
+}
+
+.chain-link-section .process__inner {
+  margin-top: 50px;
+}
+
+
+
+.insurance-details__points-left {
+  width: 100%;
+}
+
+
+
+.blog-details-article-one .row {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-us-article-one .sub-title {
+  margin: 0;
+  color: var(--insur-black);
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 700;
+  letter-spacing: var(--insur-letter-spacing);
+}
+
+.contact-page__call-email {
+  padding-top: 10px;
+}
+
+.process__single:hover .process__icon-box .process__icon img {
+  filter: brightness(0) invert(1);
+}
+
+.contact-us-article-one .address-box ul li span i {
+  background-color:#fff;
+  border: 1px solid var(--color-lightblue);
+  padding: 15px;
+  border-radius: 50%;
+  color:var(--color-lightblue);;
+}
+
+.contact-us-article-one .address-box ul li span {
+   color: #000;
+   font-weight: 900;
+}
+
+.contact-us-article-one .address-box ul li span:nth-child(1){
+   display: block;
+   padding-right: 15px;
+}
+
+.contact-us-article-one .address-box ul li{
+  display: flex;
+  align-items: center;
+}
+
+.contact-us-article-one .address-box ul li{
+  margin-top: 15px;
+}
+
+.contact-us-article-two{
+   background-color: #f2f5f9;
+}
+
+.breadcrumb-article-one h6 a{
+  color: #fff;
+}
+
+.mobile-view-img-alignment{
+  display: none;
+}
+
+.services-article-one img{
+  width: 100%;
+}
+
+.services-article-one ul li{
+  text-align: justify;
+}
+
+.main-menu-three__wrapper{
+  background-color: #284978;
+}
+
+.mobile-nav__toggler i{
+  color: #fff;
+}
+
+
+
+.section-title__title-1 {
+  margin: 0;
+  color: var(--insur-black);
+  font-size: 35px;
+  line-height: 55px;
+  font-weight: 700;
+  letter-spacing: var(--insur-letter-spacing);
+}
+
+
+
